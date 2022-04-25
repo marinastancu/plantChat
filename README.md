@@ -1,7 +1,7 @@
 # plantChat
 A mobile application that envisions how our interaction with house plants might change in a future, digitized world.
 #### description 
-Prototype project of an android application using image recognition, currently in development. Developed during and for STRP Spacemakers.
+Android application using image recognition, currently in development. Developed during STRP Spacemakers, for the following research question:
 > Multinational corporations are constantly logging, tracking, scanning and digitising our world around us.
 > Imagine in the near future every physical space is connected to the digital realm.
 > Augmented reality has become a part of our daily lives. A digital skin is projected over buildings, public spaces and even in our own homes.
@@ -13,6 +13,10 @@ Prototype project of an android application using image recognition, currently i
 - generate a response back from plants
 #### technologies and tools
 - Java
-- Teachable Machine
+- Tensorflow Lite
 - OpenCV
+- Teachable Machine
 - Android Studio
+#### iterations
+1. prototype using Teachable Machine by Google to demonstrate proof of concept
+2. android application in Java, using Tensorflow Lite and OpenCV
